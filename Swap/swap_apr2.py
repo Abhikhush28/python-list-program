@@ -16,3 +16,5 @@ def swapList(newList):
 # Driver Code
 newList = [12, 35, 9, 76, 25]
 print(swapList(newList)) 
+# Time Complexity: O(1)
+# Auxiliary Space: O(n), where n is length of list
